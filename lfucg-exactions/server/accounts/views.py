@@ -1133,4 +1133,3 @@ class TransactionCSVExportView(View):
 
                         writer.writerow(row)
             return response
-
